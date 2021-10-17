@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Sura I'm a Software Engineer. contributing in projects that serve and give value to the public has shaped my career choices. 
+I'm working on my debut video game with my husband. I'm an ex-BBC Software Engineer. I previously worked on Transport for greater Manchester tfgm.com website and apps, Pan Am 2015 Toronto website. Also ages ago I was part of producing UNHCR campaigns. 
+
 <!--
 **karnawis/karnawis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
