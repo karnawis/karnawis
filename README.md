@@ -4,7 +4,8 @@
 
 🌱 STARTUPS: In one of my own projects, Unleaving, I co-led the project, overseeing budget, design, and engineering decisions, which led to the successful launch of an interactive video game. The team was nominated for the Indie Cup Canada Rising Star award for innovation.
 
-🌳 CORPORATIONS: I have had the opportunity to work with notable organizations, including as an ex-BBC Software Engineer. I was part of the core team for the BBC account platform, which is the front door to a personalized BBC experience.
+🌳 CORPORATIONS: I have had the opportunity to work with notable organizations, including as an ex-BBC Software Engineer. I was part of the core team for the BBC account platform, we developed the pan-BBC authentication and authorisation applications, which are the gateway to personalisation for BBC products like BBC.co.uk, BBC iPlayer...etc
+
 I also served as a BBC Accessibility Champion, where I encouraged the practice of using accessibility standards in every design and development decision. I previously worked on Transport for greater Manchester tfgm.com website and apps, Pan Am 2015 Toronto website. Also ages ago I was part of producing UNHCR campaigns.
 
 I'm an eager learner and always look for ways to expand my knowlege and experiences.
