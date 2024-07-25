@@ -10,8 +10,8 @@ I also served as a BBC Accessibility Champion, where I encouraged the practice o
 I'm an eager learner and always look for ways to expand my knowlege and experiences.
 
  
-👯 I continue to champion for including accessibility practices as princiapls for software engineering just like code naming convention. I think code reviews and pair programming are every day programming learning and growing practices. 
-I look forward to collaborate with like minded people.
+👯 I continue to champion for the inclusion of accessibility practices as princiapls of software engineering just like code naming convention. I think code reviews and pair programming are everyday practices for learning and growing as a programmer. 
+I look forward to collaborating with like minded people.
 
 
 
