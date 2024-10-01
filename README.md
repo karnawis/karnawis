@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hi there I am [Sura](https://sura.me/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- 🔭 I'm Sura I'm a Software Engineer, contributing in projects that serve and give value to the public has shaped my career choices. Leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running my own commercial projects from conceptualization to launch.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surait)
+
+<br/>
+ 
+I'm Sura I'm a Software Engineer and studio lead at  [Orangutan Matter](https://orangutanmatter.com/).
+ 
+ 
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="css 3" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node JS Logo" width="50" height="50"/>
+
+Throughout my career I have contributed to projects that serve and give value to the public, that has shaped my career choices, leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running my own commercial projects from conceptualizatio, funding to launch.
 
 🌱 STARTUPS: In one of my own projects, Unleaving, I co-led the project, overseeing budget, design, and engineering decisions, which led to the successful launch of an interactive video game. The team was nominated for the Indie Cup Canada Rising Star award for innovation.
 
@@ -10,11 +23,8 @@ I also served as a BBC Accessibility Champion, where I encouraged the practice o
 
 I'm an eager learner and always look for ways to expand my knowlege and experiences.
 
- 
-👯 I continue to champion for the inclusion of accessibility practices as princiapls of software engineering just like code naming convention. I think code reviews and pair programming are everyday practices for learning and growing as a programmer. 
+👯 I continue to champion for the inclusion of accessibility practices as princiapls of software engineering just like code naming convention. I think code reviews and pair programming are everyday practices for learning and growing as a programmer.
 I look forward to collaborating with like minded people.
-
-
 
 <!--
 **karnawis/karnawis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +40,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Companies I worked for / consulted with
+
+<img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="SAP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bbc-2.svg" alt="BBC Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/un.svg" alt="UNHCR Logo" width="50" height="50"/>
+
+<span style="display: inline-block;background:#FFF"><img src="https://upload.wikimedia.org/wikipedia/en/6/6b/TfGM.svg" alt="Transport for Greater Manchester Logo" width="100" height="auto"/></span>
+<img src="https://www.unleaving.com/static/40cff1f8d4dd2986eb73249fd01b9ad8/f4762/orangutan-matter-logo.webp" alt="SAP Logo" width="100" height=""/>
+
+</p>
+
+### Platforms I built games on
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/xbox-9.svg" alt="Xbox Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-3.svg" alt="Xbox Logo" width="50" height="50"/>
+
+</p>
