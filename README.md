@@ -10,8 +10,12 @@ I'm Sura I'm a Software Engineer and studio lead at  [Orangutan Matter](https://
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="css 3" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node JS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node JS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML 5 Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="greenscok animation library Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/grunt.svg" alt="Next Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="Graph QL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" alt="Handlebars Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Microsoft Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
 Throughout my career I have contributed to projects that serve and give value to the public, that has shaped my career choices, leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running my own commercial projects from conceptualizatio, funding to launch.
 
@@ -54,7 +58,6 @@ Here are some ideas to get you started:
 ### Platforms I built games on
 
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/xbox-9.svg" alt="Xbox Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-3.svg" alt="Xbox Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/xbox.svg" alt="Xbox Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" alt="Xbox Logo" width="50" height="50"/>
 
 </p>
