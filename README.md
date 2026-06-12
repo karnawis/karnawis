@@ -63,5 +63,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/xbox.svg" alt="Xbox Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" alt="Xbox Logo" width="50" height="50"/>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surait)
+
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surait)
