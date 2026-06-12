@@ -5,6 +5,11 @@
 <br/>
  
 I'm Sura I'm a Software Engineer
+- 🏢 Previously Software Engineer at the BBC  
+- 🎮 Video game designer  
+- ♿ Passionate about accessible web development  
+- 💻 Tech enthusiast  
+- 🍰 Also, I really like cake
  
  
 ### Languages and tools ⚙️
@@ -20,7 +25,7 @@ I'm Sura I'm a Software Engineer
 <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Microsoft Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 
-Throughout my career I have contributed to projects that serve and give value to the public, that has shaped my career choices, leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running my own commercial projects from conceptualizatio, funding to launch.
+Throughout my career I have contributed to projects that serve and give value to the public, that has shaped my career choices, leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running commercial projects from conceptualizatio, funding to launch.
 
 🌱 STARTUPS: In one of my own projects, Unleaving, I co-led the project, overseeing, design, and engineering decisions, which led to the successful launch of an interactive video game. The team was nominated for the Indie Cup Canada Rising Star award for innovation.
 
