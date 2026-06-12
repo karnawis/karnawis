@@ -1,10 +1,10 @@
 ### Hi there I am [Sura](https://sura.me/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surait)
+
 
 <br/>
  
-I'm Sura I'm a Software Engineer and studio lead at  [Orangutan Matter](https://orangutanmatter.com/).
+I'm Sura I'm a Software Engineer
  
  
 ### Languages and tools ⚙️
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="SAP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bbc-2.svg" alt="BBC Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/un.svg" alt="UNHCR Logo" width="50" height="50"/>
+[Orangutan Matter](https://orangutanmatter.com/)
 
 <span style="display: inline-block;background:#FFF"><img src="https://upload.wikimedia.org/wikipedia/en/6/6b/TfGM.svg" alt="Transport for Greater Manchester Logo" width="100" height="auto"/></span>
 <img src="https://www.unleaving.com/static/40cff1f8d4dd2986eb73249fd01b9ad8/f4762/orangutan-matter-logo.webp" alt="SAP Logo" width="100" height=""/>
@@ -62,5 +63,5 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/xbox.svg" alt="Xbox Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" alt="Xbox Logo" width="50" height="50"/>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surait)
 </p>
