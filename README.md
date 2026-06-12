@@ -10,8 +10,9 @@ I'm Sura I'm a Software Engineer
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-js.svg" alt="JavaScript Logo" width="50" height="50"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript-2.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript-js.svg" alt="JavaScript Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node JS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="gatsby Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML 5 Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="greenscok animation library Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/grunt.svg" alt="Next Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="Graph QL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" alt="Handlebars Logo" width="50" height="50"/>
@@ -24,7 +25,7 @@ I'm Sura I'm a Software Engineer
 
 Throughout my career I have contributed to projects that serve and give value to the public, that has shaped my career choices, leading me to work on a diverse range of projects, from small startups to large enterprise software solutions, and even running my own commercial projects from conceptualizatio, funding to launch.
 
-🌱 STARTUPS: In one of my own projects, Unleaving, I co-led the project, overseeing budget, design, and engineering decisions, which led to the successful launch of an interactive video game. The team was nominated for the Indie Cup Canada Rising Star award for innovation.
+🌱 STARTUPS: In one of my own projects, Unleaving, I co-led the project, overseeing, design, and engineering decisions, which led to the successful launch of an interactive video game. The team was nominated for the Indie Cup Canada Rising Star award for innovation.
 
 🌳 CORPORATIONS: I have had the opportunity to work with notable organizations, including as an ex-BBC Software Engineer. I was part of the core team for the BBC account platform, we developed the pan-BBC authentication and authorisation applications, which are the gateway to personalisation for BBC products like BBC.co.uk, BBC iPlayer...etc
 
